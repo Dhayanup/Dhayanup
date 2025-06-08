@@ -70,7 +70,7 @@
 
 <div align="center">
 
-### 🌟 [página web de streaming] 
+### 🌟 página web de streaming 
 **Aplicacion FullStack que renderiza contenido de películas con un formulario para agregar más películas**
 ```
 Tecnologías:
@@ -83,22 +83,22 @@ Back End: Express • NodeJS • MongoDB
 
 ---
 
-### 🌟 [Nombre del Proyecto 2]
-**Descripción breve del proyecto**
+### 🌟 App de gestión de turnos 
+**Una aplicación para reservar turnos en un consultorio médico**
 ```
-Tecnologías: Node.js • Express • MongoDB • React
+Tecnologías: Node.js • Express • PostgreSQ •TypeORM• React • Vite • TypeScript
 ```
-[![Ver Proyecto](https://img.shields.io/badge/Ver_Proyecto-000?style=for-the-badge&logo=github&logoColor=white)](enlace-al-proyecto)
+[![Ver Proyecto](https://img.shields.io/badge/Ver_Proyecto-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pi-rym/PM3-Dhayanup)
 [![Demo Live](https://img.shields.io/badge/Demo_Live-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](enlace-al-demo)
 
 ---
 
-### 🌟 [Nombre del Proyecto 3]
-**Descripción breve del proyecto**
+### 🌟 Ecommerce de productos digitales
+**proyecto FullStack completo para una tienda digital**
 ```
-Tecnologías: WordPress • WooCommerce • PHP • MySQL
+Tecnologías:TypeORM  • PostgreSQL • Express • TypeScript • Node • React • NextJS • Tailwind • Context • Auth
 ```
-[![Ver Proyecto](https://img.shields.io/badge/Ver_Proyecto-000?style=for-the-badge&logo=github&logoColor=white)](enlace-al-proyecto)
+[![Ver Proyecto](https://img.shields.io/badge/Ver_Proyecto-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pi-rym/PM4FE-Dhayanup)
 [![Demo Live](https://img.shields.io/badge/Demo_Live-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](enlace-al-demo)
 
 </div>
@@ -125,10 +125,9 @@ Tecnologías: WordPress • WooCommerce • PHP • MySQL
 
 ### 💬 ¿Tienes un proyecto en mente? ¡Hablemos!
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhayanup@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhayann-uzcategui-prado-a2115b246)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://demoportafolio.netlify.app/)
 
 </div>
 
