@@ -136,17 +136,5 @@ Tecnologías:TypeORM  • PostgreSQL • Express • TypeScript • Node • Rea
 
 ---
 
-<div align="center">
-  
-### ⚡ "El código es poesía en movimiento" ⚡
 
-![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario&color=blueviolet&style=for-the-badge)
-
-</div>
-```
-
-
-   - Certificaciones
-   - Experiencia laboral
-   - Blog posts
 
